@@ -1,8 +1,17 @@
 {
-  "barang" : [
-    {"nama":"laptop", "berat":"5kg", "merek":"acer"},
-    {"nama":"komputer", "berat":"10kg", "merek":"-"},
-    {"nama":"handphone", "berat": "90g", "merek":"samsung"},
-    {"nama":"console", "berat":"8kg", "merek":"sony"}
-  ]
+  "barang" : [{"id":1,"name":"Cheese - Cheddar With Claret","weigth":86,"brand":"Blueknight Energy Partners L.P., L.L.C."},
+{"id":2,"name":"Slt - Individual Portions","weigth":5,"brand":"Mylan N.V."},
+{"id":3,"name":"Sprouts - Baby Pea Tendrils","weigth":100,"brand":"Catalyst Pharmaceuticals, Inc."},
+{"id":4,"name":"Juice - Clam, 46 Oz","weigth":1,"brand":"John Hancock Tax Advantaged Dividend Income Fund"},
+{"id":5,"name":"Tomatoes - Diced, Canned","weigth":74,"brand":"Federated Premier Intermediate Municipal Income Fund"},
+{"id":6,"name":"Table Cloth 91x91 Colour","weigth":24,"brand":"PAREXEL International Corporation"},
+{"id":7,"name":"Lumpfish Black","weigth":23,"brand":"AMTEK, Inc."},
+{"id":8,"name":"Sauce - Soy Low Sodium - 3.87l","weigth":30,"brand":"Intec Pharma Ltd."},
+{"id":9,"name":"Cheese - Cheddarsliced","weigth":37,"brand":"The Cushing MLP Total Return Fund"},
+{"id":10,"name":"Chicken Giblets","weigth":50,"brand":"TheStreet, Inc."},
+{"id":11,"name":"Wine - White, Riesling, Henry Of","weigth":52,"brand":"Bill Barrett Corporation"},
+{"id":12,"name":"Wine - Vineland Estate Semi - Dry","weigth":56,"brand":"Capital One Financial Corporation"},
+{"id":13,"name":"Wine - Malbec Trapiche Reserve","weigth":60,"brand":"USANA Health Sciences, Inc."},
+{"id":14,"name":"Pepper - Green","weigth":100,"brand":"Blackrock Municipal Bond Trust"},
+{"id":15,"name":"Amarula Cream","weigth":55,"brand":"MEI Pharma, Inc."}]
 }
