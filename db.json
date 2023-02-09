@@ -1,8 +1,8 @@
 {
   "barang" : [
-    {nama:"laptop", berat:"5kg", merek:"acer"},
-    {nama:"komputer", berat:"10kg", merek:"-"},
-    {nama:"handphone", berat: "90g", merek:"samsung"},
-    {nama:"console", berat:"8kg", merek:"sony"}
+    {"nama":"laptop", "berat":"5kg", "merek":"acer"},
+    {"nama":"komputer", "berat":"10kg", "merek":"-"},
+    {"nama":"handphone", "berat": "90g", "merek":"samsung"},
+    {"nama":"console", "berat":"8kg", "merek":"sony"}
   ]
 }
