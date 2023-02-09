@@ -1,5 +1,5 @@
 {
-  barang : [
+  "barang" : [
     {nama:"laptop", berat:"5kg", merek:"acer"},
     {nama:"komputer", berat:"10kg", merek:"-"},
     {nama:"handphone", berat: "90g", merek:"samsung"},
